@@ -1,0 +1,14 @@
+body {
+  background-color: var(--tg-theme-bg-color);
+  border: 1px solid var (--tg-theme-link-color);
+  /* var (--tg-theme-bg-color)
+  var (--tg-theme-text-color)
+  var(--tq-theme-hint-color)
+  var (--tg-theme-link-color)
+  var --tg-theme-button-color)
+  var (--tg-theme-button-text-color) */
+}
+
+.usercard {
+  padding: 16px;
+}
