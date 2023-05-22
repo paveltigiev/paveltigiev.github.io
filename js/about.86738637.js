@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_tonsdk"]=self["webpackChunkvue_tonsdk"]||[]).push([[443],{1168:function(n,t,u){u.r(t),u.d(t,{default:function(){return i}});var s=function(){var n=this;n._self._c;return n._m(0)},e=[function(){var n=this,t=n._self._c;return t("div",{staticClass:"about"},[t("h1",[n._v("This is an about page")])])}],a=u(1001),l={},r=(0,a.Z)(l,s,e,!1,null,null,null),i=r.exports}}]);
+//# sourceMappingURL=about.86738637.js.map
